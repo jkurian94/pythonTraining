@@ -1,3 +1,4 @@
+# Sales Prediction
 profit=25
 sales=float(input("Total Sales : "))
 total=profit*sales
