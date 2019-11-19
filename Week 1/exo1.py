@@ -1,6 +1,6 @@
 # b=float(input("give me a number : "))
 # c=b*2
-# print(c)
+# print(c)+
 
 
 a=int(float(input("give me a number :")))
